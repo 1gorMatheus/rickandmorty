@@ -48,6 +48,7 @@ export const Butao = styled.div`
     background-color: rgb(135, 245, 78);
     border: none;
     border-radius: 1rem;
+    cursor: pointer;
     :hover{
     background-color:rgb(108, 197, 62);
     transition : all 0.3s;
